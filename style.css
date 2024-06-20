@@ -1,0 +1,25 @@
+.navwrapper{
+    display: inline;
+}
+.shoes{
+   
+    width: 700px;
+    height: 80px;
+    border: 2px solid rgb(12, 12, 12);
+    background-color: rgb(167, 124, 124);
+}
+.hoodies{
+    
+    width: 700px;
+    height: 80px;
+    border: 2px solid rgb(12, 12, 12);
+    background-color: rgb(167, 124, 124);
+}
+
+.tshirt{
+   
+    width: 700px;
+    height: 80px;
+    border: 2px solid rgb(12, 12, 12);
+    background-color: rgb(167, 124, 124);
+}
